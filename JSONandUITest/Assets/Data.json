@@ -1,0 +1,47 @@
+{
+  "title" : "Unity3d Programming Test",
+  "maxObjects" : 20,
+  "buttons" : [
+    {
+      "title" : "Red Sphere",
+      "image" : "http://atm.s3.amazonaws.com/Unity/red_sphere.png",
+      "color" : "#FF0000",
+      "type" : "Sphere",
+      "obeyGravity" : true
+    },
+    {
+      "title" : "Green Cube",
+      "image" : "http://atm.s3.amazonaws.com/Unity/green_cube.png",
+      "color" : "00FF00",
+      "type" : "Cube",
+      "obeyGravity" : true
+    },
+    {
+      "title" : "Blue Sphere",
+      "image" : "http://atm.s3.amazonaws.com/Unity/blue_sphere.png",
+      "color" : "#0000FF",
+      "type" : "Sphere",
+      "obeyGravity" : true
+    },
+    {
+      "title" : "Yellow Cube",
+      "image" : "http://atm.s3.amazonaws.com/Unity/yellow_cube.png",
+      "color" : "#FFFF00",
+      "type" : "Cube",
+      "obeyGravity" : false
+    },
+    {
+      "title" : "Orange Sphere",
+      "image" : "http://atm.s3.amazonaws.com/Unity/orange_sphere.png",
+      "type" : "Sphere",
+      "obeyGravity" : false
+    },
+    {
+      "title" : "Purple Cube",
+      "image" : "http://atm.s3.amazonaws.com/Unity/purple_cube.png",
+      "color" : "#ff00ff",
+      "type" : "Cube",
+      "obeyGravity" : false
+    }
+  ]
+}

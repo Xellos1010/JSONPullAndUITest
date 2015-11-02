@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "All Things Media.CSharp.Plugins", "All Things Media.CSharp.Plugins.csproj", "{DF0A9149-E0F4-778F-7E85-2D025A368BFA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "All Things Media.CSharp", "All Things Media.CSharp.csproj", "{1B8017DA-7C33-5875-6993-11FC48AA298B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF0A9149-E0F4-778F-7E85-2D025A368BFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF0A9149-E0F4-778F-7E85-2D025A368BFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF0A9149-E0F4-778F-7E85-2D025A368BFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF0A9149-E0F4-778F-7E85-2D025A368BFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B8017DA-7C33-5875-6993-11FC48AA298B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B8017DA-7C33-5875-6993-11FC48AA298B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B8017DA-7C33-5875-6993-11FC48AA298B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B8017DA-7C33-5875-6993-11FC48AA298B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
